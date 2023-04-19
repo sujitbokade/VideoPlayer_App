@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020900777684",
+    "project_id": "videoplayer-20536",
+    "storage_bucket": "videoplayer-20536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020900777684:android:6dbe1c60a9b15fa1ff6541",
+        "android_client_info": {
+          "package_name": "com.chatnplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020900777684-mgqeubfefvil6s11suava22gn312j5q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4zyC2vwWLQH2rc0g5vqRpQwxs0c-f7DA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020900777684-mgqeubfefvil6s11suava22gn312j5q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
